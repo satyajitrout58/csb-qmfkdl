@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://satyajitrout58.github.io/csb-qmfkdl/static/css/main.fc5c2c69.css",
+    "main.js": "https://satyajitrout58.github.io/csb-qmfkdl/static/js/main.686c5713.js",
+    "index.html": "https://satyajitrout58.github.io/csb-qmfkdl/index.html",
+    "main.fc5c2c69.css.map": "https://satyajitrout58.github.io/csb-qmfkdl/static/css/main.fc5c2c69.css.map",
+    "main.686c5713.js.map": "https://satyajitrout58.github.io/csb-qmfkdl/static/js/main.686c5713.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.686c5713.js"
+  ]
+}
